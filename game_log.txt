@@ -1,0 +1,12 @@
+2026-02-09 03:03:52,245 - Game dihentikan oleh user
+2026-02-09 03:03:52,620 - Game dimulai: TestHero
+2026-02-09 03:12:43,397 - Game dimulai: TestPlayer
+2026-02-09 03:13:36,031 - Game dimulai: SaveTest
+2026-02-09 03:13:51,086 - Game dimulai: SaveTest
+2026-02-09 03:25:17,335 - Game dimulai: Hes
+2026-02-09 03:27:50,101 - Game disimpan: Hes - Chapter 1
+2026-02-09 03:31:05,742 - Hes - Harad Pink dipilih strategi: 2
+2026-02-09 03:31:12,489 - Game disimpan: Hes - Chapter 2
+2026-02-09 03:31:29,796 - Hes - Diplomasi score: 2, Diversity: 5
+2026-02-09 03:31:30,796 - Hes - Diplomasi Harad Biru BERHASIL
+2026-02-09 03:31:49,085 - Hes - GOOD ENDING dengan sisa 3 nyawa
