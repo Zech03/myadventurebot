@@ -10,3 +10,26 @@
 2026-02-09 03:31:29,796 - Hes - Diplomasi score: 2, Diversity: 5
 2026-02-09 03:31:30,796 - Hes - Diplomasi Harad Biru BERHASIL
 2026-02-09 03:31:49,085 - Hes - GOOD ENDING dengan sisa 3 nyawa
+2026-02-13 07:21:52,619 - Game keluar dari main menu
+2026-02-13 07:22:18,415 - Game keluar dari main menu
+2026-02-13 07:25:08,867 - Game dimulai: TestPlayer
+2026-02-13 07:27:31,193 - Game dimulai: 1
+2026-02-13 07:28:15,286 - Game dimulai: SaveTest
+2026-02-13 07:28:45,790 - Game dimulai: Tester
+2026-02-13 07:29:16,216 - Game disimpan: Tester - Chapter 1
+2026-02-13 07:29:31,425 - Tester - Harad Pink dipilih strategi: 1
+2026-02-13 07:29:46,440 - Game disimpan: TestPlayer - Chapter 1
+2026-02-13 07:29:46,441 - Game dimuat: TestPlayer - Chapter 1
+2026-02-13 07:31:26,613 - Game keluar dari main menu
+2026-02-13 07:31:47,857 - Game dimulai: TestHero
+2026-02-13 07:32:18,299 - Game disimpan: TestHero - Chapter 1
+2026-02-13 07:32:33,491 - TestHero - Harad Pink dipilih strategi: 1
+2026-02-13 07:32:40,339 - Game disimpan: TestHero - Chapter 2
+2026-02-13 07:34:11,871 - Game dimuat: TestHero - Chapter 2
+2026-02-13 07:34:28,803 - TestHero - GOOD ENDING dengan sisa 3 nyawa
+2026-02-13 07:35:05,991 - Game berakhir - Player tidak ingin main lagi
+2026-02-13 07:43:37,504 - Game keluar dari main menu
+2026-02-13 07:44:02,217 - Game dimulai: BranchTest1
+2026-02-13 07:44:32,649 - Game disimpan: BranchTest1 - Chapter 1
+2026-02-13 07:45:53,531 - Game keluar dari main menu
+2026-02-13 07:46:03,753 - Game keluar dari main menu

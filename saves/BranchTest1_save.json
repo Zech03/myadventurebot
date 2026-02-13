@@ -1,0 +1,39 @@
+{
+  "player_name": "BranchTest1",
+  "lives": 3,
+  "max_lives": 3,
+  "current_chapter": 1,
+  "allies": [
+    {
+      "name": "Kade",
+      "race": "Pendekar",
+      "skill": "Bela Diri Tinju Dahsyat",
+      "specialty": "Ahli dalam pertempuran satu lawan satu"
+    },
+    {
+      "name": "Grendor",
+      "race": "Beastman",
+      "skill": "Kekuatan Bruto",
+      "specialty": "Kekuatan ganda lipat dari manusia normal"
+    },
+    {
+      "name": "Zephyr",
+      "race": "Pendekar",
+      "skill": "Seni Pedang Kilat",
+      "specialty": "Kecepatan tak tertandingi"
+    },
+    {
+      "name": "Lyssa",
+      "race": "Elf",
+      "skill": "Panahan Presisi",
+      "specialty": "Mata tajam, tak pernah meleset"
+    },
+    {
+      "name": "Valdris",
+      "race": "Penyihir",
+      "skill": "Sihir Gelap",
+      "specialty": "Menguasai kutukan dan sihir ilmu tersembunyi"
+    }
+  ],
+  "save_time": "2026-02-13 07:44:32"
+}
